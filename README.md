@@ -15,9 +15,9 @@ A PyTorch-based implementation of the Transformer architecture, focused on self-
 ## Project Structure
 
 ```
-SA_Transformer/
-├── SA_Transformer_2.ipynb   # Main Jupyter notebook (code and explanations)
-├── README.md                # Project overview and usage guide
+main/
+├── main.ipynb   # Main Jupyter notebook (code and explanations)
+├── README.md                # Project overview
 ```
 
 ## Model Overview
