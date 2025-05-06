@@ -38,28 +38,3 @@ You can use this Transformer for various tasks:
 * Language modeling
 * Time-series prediction
 * Educational visualization of attention mechanics
-
-## Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/SA_Transformer.git
-cd SA_Transformer
-```
-
-2. Install the required libraries manually:
-
-```bash
-pip install torch numpy matplotlib jupyter
-```
-
-3. Launch the notebook:
-
-```bash
-jupyter notebook SA_Transformer_2.ipynb
-```
-
-## Training and Evaluation
-
-The notebook includes training loops with loss visualization, model evaluation on validation/test sets, and options for experimenting with hyperparameters.
